@@ -1,7 +1,7 @@
 import React from 'react';
 
 import NavBar from './NavBar'
-//Amigas y amigos. Aquí incorporé los Componentes MainContent y Footer
+//Aquí incorporé los Componentes MainContent y Footer
 import MainContent from './MainContent';
 import Footer from './Footer';
 

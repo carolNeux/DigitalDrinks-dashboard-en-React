@@ -34,21 +34,21 @@ class ContentRowTop extends Component {
   render(){
     let CantProductos ={
         color:  "danger",
-        titulo: "Products in Data Base",
+        titulo: "Cantidad de Productos",
         valor: this.state.quantity,
         icono: "fa-clipboard-list",
         moneda: false 
         }
         let amount ={
             color:   "success",
-            titulo: "Amount in products",
+            titulo: "Capital en mercaderia",
             valor: this.state.totalAmount,
             icono: "fa-dollar-sign",
             moneda: true
         }
         let user = {
             color:   "warning",
-            titulo: "Users quantity",
+            titulo: "Cantidad de usuarios",
             valor: this.state.quantityUsers,
             icono: "fa-user-check",
             moneda: false

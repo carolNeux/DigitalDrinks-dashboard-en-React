@@ -12,7 +12,7 @@ function MainContent(){
 
                 {/*<!-- Page Heading -->*/}
                 <div className="d-sm-flex align-items-center justify-content-between mb-4">
-                    <h1 className="h3 mb-0 text-gray-800">Digital Drinks - All we need to know</h1>
+                    <h1 className="h3 mb-0 text-gray-800">Dashboard de Digital Drinks</h1>
                 </div>
                 {/*Aquí debemos llamar a los componentes  ContentRowTop y a ContentRoBotton*/}
                 <ContentRowTop />
