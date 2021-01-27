@@ -22,7 +22,7 @@ class Product extends Component {
           )
     }
 
-    //Componenctes ciclo de vida - MOnto _ Actualizo - Desmonto
+    //Componenctes ciclo de vida - Monto _ Actualizo - Desmonto
     //Montaje -- componentDidMount - Es un método que comunica con nuestra Api o db
     componentDidMount(){
         fetch('/api/products')
@@ -40,7 +40,7 @@ class Product extends Component {
         return (
             <React.Fragment>
             {/*<!-- PRODUCTS LIST -->*/}
-            <h1 onClick={this.mensaje} className="h3 mb-2 text-gray-800">All the products in the Database</h1>
+         
             
             {/*<!-- DataTales Example -->*/}
             <div className="card shadow mb-4">

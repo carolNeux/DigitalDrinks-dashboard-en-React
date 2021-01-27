@@ -35,9 +35,6 @@ function SideBar(){
 			{/*<!-- Divider -->*/}
 			<hr className="sidebar-divider"/>
 
-			{/*<!-- Heading -->*/}
-			<div className="sidebar-heading">Actions</div>
-
 			{/*<!-- Nav Item - Pages -->*/}
 			<li className="nav-item">
 				<Link className="nav-link collapsed" to="/">

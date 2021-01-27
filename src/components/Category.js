@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 function Category(props){
@@ -7,7 +6,7 @@ function Category(props){
             <div className="col-lg-6 mb-4">
                 <div className="card bg-info text-white shadow">
                     <div className="card-body">
-                        Category {props.categoria}
+                        Categorias {props.categoria}
                     </div>
                 </div>
             </div>
