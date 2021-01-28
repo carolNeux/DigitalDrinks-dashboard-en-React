@@ -17,7 +17,7 @@ function MainContent(){
                 {/*Aquí debemos llamar a los componentes  ContentRowTop y a ContentRoBotton*/}
                 <ContentRowTop />
                 <ContentRowBotton />
-                <Product />
+                {/* <Product /> */}
             </div>       
         </React.Fragment>
     )
