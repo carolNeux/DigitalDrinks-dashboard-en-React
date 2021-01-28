@@ -15,14 +15,13 @@ function Nosotros() {
                         <h4 class="card-title text-center fw-bold">Un poquito de historia</h4>
                         <br></br>
                         <p class="text">Hace un año nos juntamos en Digital House para estudiar. </p>
-                        <p class="text"> Desde entonces creamos este proyecto de comercializacion de bebidas alcoholicas e insumos para cocteleria.</p>
-                        <p class="card-text">Para brindarte un mejor servicio sumamos aglunas recetas y cursos.
-                </p>
+                        <p class="text"> Desde entonces creamos este proyecto de comercialización de bebidas alcohólicas e insumos para coctelería.</p>
+                        <p class="card-text">Para brindarte un mejor servicio sumamos algunas recetas y cursos.</p>
                         <p class="card-text">
                             Esperamos que disfuten de esta experiencia.</p><br></br>
                         <p class="card-text">Ximena Camacho</p>
                         <p class="card-text">Carlos Loffreda</p>
-                        <p class="card-text">Robert Rondon</p>
+                        <p class="card-text">Robert Rondón</p>
                         <p class="card-text">Carolina Neumeyer</p>
                     </div>
                 </div>

@@ -4,7 +4,7 @@ import Category from './Category';
 let categorias = [
     {categoria: 'Products'},
     {categoria: 'Courses'},
-    {categoria: 'Recipess'},
+    {categoria: 'Recipes'},
 ]
 
 function CategoryInDb(){
@@ -14,7 +14,7 @@ function CategoryInDb(){
                 <div className="col-lg-6 mb-4">						
                     <div className="card shadow mb-4">
                         <div className="card-header py-3">
-                            <h6 className="m-0 font-weight-bold text-primary">Categorias en Base de Datos</h6>
+                            <h6 className="m-0 font-weight-bold text-primary">Categorías en Base de Datos</h6>
                         </div>
                         <div className="card-body">
                             <div className="row">

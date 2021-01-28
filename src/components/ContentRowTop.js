@@ -41,7 +41,7 @@ class ContentRowTop extends Component {
         }
         let amount ={
             color:   "success",
-            titulo: "Capital en mercaderia",
+            titulo: "Capital en mercadería",
             valor: this.state.totalAmount,
             icono: "fa-dollar-sign",
             moneda: true

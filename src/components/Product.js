@@ -51,9 +51,9 @@ class Product extends Component {
                                 <tr>
                                     <th>Id</th>
                                     <th>Nombre</th>
-                                    <th>Price</th>
+                                    <th>Precio</th>
                                     <th>Descuento</th>
-                                    <th>Description</th>
+                                    <th>Descripción</th>
                                     
                                 </tr>
                             </thead>
@@ -61,9 +61,9 @@ class Product extends Component {
                                 <tr>
                                     <th>Id</th>
                                     <th>Nombre</th>
-                                    <th>Price</th>
+                                    <th>Precio</th>
                                     <th>Descuento</th>
-                                    <th>Description</th>
+                                    <th>Descripción</th>
                                 </tr>
                             </tfoot>
                             <tbody>
